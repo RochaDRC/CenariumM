@@ -1,4 +1,3 @@
-@@ -1,48 +1,52 @@
 <h1 align="center"> Cenarium Personalizados </h1>
 
 <p align="center">
@@ -20,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./.github/GIT.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
