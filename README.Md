@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Cenarium é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](#)
+- [Acesse o projeto finalizado, online](https://rochadrc.github.io/CenariumM/)
 
 ## 🔖 Layout
 
